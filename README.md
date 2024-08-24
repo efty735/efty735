@@ -1,22 +1,28 @@
-<h3 align="center">Web developer</h3>
+### Hi there 👋, I am Efty
+####     Web developer
+![    Web developer](https://wallpapercave.com/wp/wp9641787.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efty735&label=Profile%20views&color=0e75b6&style=flat" alt="efty735" /> </p>
+Hey! I like to learn new technologies and client satisfaction is my first priority.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efty735" alt="efty735" /></a> </p>
+Skills:  HTML / CSS
 
-- 🌱 I’m currently learning **git and github**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning git and github 
+- 📫 How to reach me: efty86682@gmail.com 
+- ⚡ Fun fact: I think I am funny 
 
-- 📫 How to reach me **efty86682@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/efty735)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MD Evtyhaj Uddin)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efty735)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efty735&show_icons=true&locale=en&layout=compact" alt="efty735" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=efty735&show_icons=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efty735&show_icons=true&locale=en" alt="efty735" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/efty735/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/efty735)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=efty735)  
+
