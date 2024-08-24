@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hello, I am Efty</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efty735&label=Profile%20views&color=0e75b6&style=flat" alt="efty735" /> </p>
 
@@ -7,11 +6,9 @@
 
 - 🌱 I’m currently learning **git and github**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **efty86682@gmail.com**
 
-- ⚡ Fun fact **I think i am funny.**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
